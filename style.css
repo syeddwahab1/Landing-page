@@ -1,0 +1,42 @@
+
+#divone{
+    background-color: #EC5332;
+    color: white;
+    text-align:center;
+    width: 100%;
+}
+#divtwo{
+    text-align: center;
+}
+#divthree{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 60%;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+#divfour{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+background-image:url(/pic4.png)  ;
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+}
+#text{
+    text-align: center;
+}
+#button{
+    border: 1px solid;
+    background-color:#EC5332 ;
+    color: white;
+    width: 40%;
+    border-radius: 15px;
+    height: 20%;
+}
